@@ -1,0 +1,80 @@
+h1{
+    background-color: rgb(88, 0, 105);
+    border-radius:16% 16% 15% 17% / 15% 14% 14% 18%  ;
+    font:2.5em;
+    display: inline-block;
+    color: aliceblue;
+    justify-content:start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p{
+font-size: 1.5em;
+gap:5px;
+color: aquamarine;
+}
+
+
+.profil{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    margin: 50px;
+    gap: 15px;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'lexend giga';
+    text-decoration: none;
+    border-radius: 100% 100% 100% 100% / 100% 100% 100% 100% ;
+
+}
+
+nav,a{
+    gap: 15px;
+    font-weight: 300;
+    font-size: 3.5;
+    display: flex;
+    align-content: flex-end;
+}
+body{
+    background-color: black;
+}
+
+a:visited{
+    color: azure;
+    text-decoration: none;
+    text-decoration: none;
+  }
+
+  .profil img{
+  
+    object-fit:cover;
+}
+
+.présentation{
+font-family: 'signika';
+font-size: 2.5em;
+gap: 25px;
+word-spacing: 15px;
+padding: bottom 50px;
+line-height: 100px;
+}
+.Parcours{
+font-family: 'signika';
+font-size: 2.5em;
+gap: 5px;
+word-spacing: normal;
+padding: bottom 50px;
+line-height: 150px;
+
+}
+
+.lien{
+
+    font:"lexend" ;
+    font-weight: 400;
+    text-align: end;
+    gap: 15px;
+    text-decoration: none;
+}
