@@ -44,6 +44,7 @@ body{
 a:visited{
     color: azure;
     text-decoration: none;
+    text-decoration: none;
   }
 
   .profil img{
@@ -67,4 +68,13 @@ word-spacing: normal;
 padding: bottom 50px;
 line-height: 150px;
 
+}
+
+.lien{
+
+    font:"lexend" ;
+    font-weight: 400;
+    text-align: end;
+    gap: 15px;
+    text-decoration: none;
 }
